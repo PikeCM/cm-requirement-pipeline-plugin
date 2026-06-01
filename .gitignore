@@ -1,0 +1,26 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Client artifacts must never be committed (data handling safeguard)
+*.mp4
+*.mov
+*.mkv
+*.m4a
+*.mp3
+*.wav
+*.vtt
+*.srt
+*.transcript.txt

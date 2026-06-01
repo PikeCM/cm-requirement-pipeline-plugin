@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "cloudmasonry",
+  "description": "CloudMasonry internal Claude Code plugins for Salesforce delivery work.",
+  "owner": {
+    "name": "CloudMasonry"
+  },
+  "plugins": [
+    {
+      "name": "requirements-pipeline",
+      "description": "Turn meeting recordings into a specification document, then SAFe user stories, then a story quality review. Local-first transcription, declarative-friendly outputs.",
+      "source": "./plugins/requirements-pipeline",
+      "category": "productivity"
+    }
+  ]
+}

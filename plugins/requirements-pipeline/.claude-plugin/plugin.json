@@ -1,0 +1,16 @@
+{
+  "name": "requirements-pipeline",
+  "description": "A four-stage requirements pipeline: transcribe audio or video locally, draft a specification document, generate SAFe user stories with traceability, and review story quality against INVEST plus coverage. Built for Salesforce discovery work at CloudMasonry.",
+  "version": "0.1.0",
+  "author": {
+    "name": "CloudMasonry"
+  },
+  "keywords": [
+    "requirements",
+    "transcription",
+    "specification",
+    "user-stories",
+    "safe-agile",
+    "salesforce"
+  ]
+}
